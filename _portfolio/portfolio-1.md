@@ -1,6 +1,6 @@
 ---
 title: "Research Intern at Cognitive Science Lab, IIIT Hyderabad"
-excerpt: "Short description of portfolio item number 1<br/>"
+excerpt: "Worked on implementing various Transformer models for brain encoding and decoding under Prof. Bapi Raju<br/>"
 collection: portfolio
 ---
 
