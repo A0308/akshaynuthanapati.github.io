@@ -14,4 +14,6 @@ Of late I have been fascinated by the Transformer Architecture. I believe we are
 
 I'm currently involved in a research project working with [Bharat Ramsundar](https://rbharath.github.io/about/) (Stanford PhD, Founder of Deep Forest Sciences) on integrating Neural Operators into Chemical Language Models. 
 
+My research interests center around Deep Learning, Transformers and Natural Language Processing. 
+
 
