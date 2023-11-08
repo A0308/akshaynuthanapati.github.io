@@ -12,6 +12,6 @@ Hello there! I am Akshay, a recent graduate from the National Institute of Techn
 
 Of late I have been fascinated by the Transformer Architecture. I believe we are going to live through the creation of AGI. It will be the most significant event in the history of the world and Transformers constitute one of the many pieces of the intricate puzzle of intelligence yet to be solved. 
 
-I'm currenlty involved in a research project working with [Bharat Ramsundar](https://rbharath.github.io/about/) (Stanford PhD, Founder of Deep Forest Sciences) on integrating Neural Operators into Chemical Language Models. 
+I'm currently involved in a research project working with [Bharat Ramsundar](https://rbharath.github.io/about/) (Stanford PhD, Founder of Deep Forest Sciences) on integrating Neural Operators into Chemical Language Models. 
 
 
