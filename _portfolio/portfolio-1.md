@@ -1,6 +1,6 @@
 ---
 title: "Research Intern at Cognitive Science Lab, IIIT Hyderabad"
-excerpt: "Worked on implementing various Transformer models for brain encoding and decoding under Prof. Bapi Raju<br/>"
+excerpt: "Worked on implementing various Transformer models for fmri brain encoding and decoding under Prof. Bapi Raju<br/>"
 collection: portfolio
 ---
 
