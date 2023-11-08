@@ -1,7 +1,6 @@
-
 ---
 title: "Research Intern at Cognitive Science Lab, IIIT Hyderabad"
-excerpt: "Short description of portfolio item number 2 <br/><img src="/images/CogSci.png" width="100" height="100">"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/CogSci.png.png'>"
 collection: portfolio
 ---
 
