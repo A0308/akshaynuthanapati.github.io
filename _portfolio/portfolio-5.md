@@ -1,5 +1,5 @@
 ---
-title: "Knowledge Graphs"
+title: "Knowledge Graph Completion"
 excerpt: "Implemented graph neural network (GNNs) models including TransE, ComplEx and RotatE for triple
 prediction in knowledge graphs and evaluated them on Hits@K, Mean Rank (MR) and Mean
 Reciprocal Rank (MRR) metrics.<br/>"
