@@ -1,6 +1,6 @@
 ---
 title: "Paper Title Number 1"
 
-paperurl: 'files/Involution.pdf'
+paperurl: 'https://github.com/A0308/akshaynuthanapati.github.io/blob/master/files/Involution.pdf'
 
 ---
