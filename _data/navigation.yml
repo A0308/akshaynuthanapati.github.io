@@ -7,11 +7,11 @@ main:
   - title: "Research"
     url: /portfolio/
 
-  - title: "Papers"
+  - title: "Involution and Beyond"
     url: /files/Involution.pdf
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "Supply Chain"
+    url: /files/Thesis.pdf
     
  # - title: "Talks"
    # url: /talks/ 
