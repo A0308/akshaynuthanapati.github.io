@@ -19,6 +19,6 @@ My research interests center around Deep Learning, Transformers and Natural Lang
 
 ## Publications
 
-[Involution and Beyond](https://github.com/A0308/akshaynuthanapati.github.io/blob/master/files/Involution.pdf)
+[Involution and Beyond](/files/Involution.pdf)
 
 
