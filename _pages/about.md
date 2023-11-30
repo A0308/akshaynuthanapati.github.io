@@ -17,8 +17,6 @@ I'm currently involved in a research project working with [Bharat Ramsundar](htt
 My research interests center around Deep Learning, Transformers and Natural Language Processing. 
 
 
-## Publications
 
-[Involution and Beyond](/files/Involution.pdf)
 
 
